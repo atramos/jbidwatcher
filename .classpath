@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="onejar"/>
-	<classpathentry kind="src" path="icons"/>
 	<classpathentry kind="src" path="res"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
